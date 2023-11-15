@@ -1,0 +1,1 @@
+{"message": "dadasfafgasg", "hours": 2, "minutes": 10, "seconds": 0, "sound": "tuturu.wav", "is_repeat": 0, "times": 2}
